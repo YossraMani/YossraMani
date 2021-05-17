@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YossraMani
-- 👀 I’m interested in web developpemtent
+- 👀 I’m interested in web developpemtent and graphic design
 - 🌱 I’m currently learning Presshop
 
 
